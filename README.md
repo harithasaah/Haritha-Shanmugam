@@ -1,5 +1,6 @@
 - 👋 Hello All, I am Haritha S and upnext is a brief update on my current self
-     Full Stack Developer and Cloud DevOps Engineer
+
+      Full Stack Developer and Cloud DevOps Engineer
   
 - 👀 I’m interested to work on challenging tasks that push my limits and allow me to grow
 - 🌱 I’m currently learning Azure Services and Power-Bi (Data Analyst)
